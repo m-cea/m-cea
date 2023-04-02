@@ -22,18 +22,18 @@ Mientras encuentro mi lugar en el mundo del desarrollo me encuentro realizando p
 
 Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendiendo:
 
-  ➡️ android 
-  ➡️ bash 
-  ➡️ bootstrap 
-  ➡️ css3
-  ➡️ javascript
-  ➡️ git 
-  ➡️ html5 
-  ➡️ java 
-  ➡️ linux 
-  ➡️ mariadb 
-  ➡️ mysql 
-  ➡️ php 
-  ➡️ postgresql 
-  ➡️ python 
+  -➡️ android 
+  -➡️ bash 
+  -➡️ bootstrap 
+  -➡️ css3
+  -➡️ javascript
+  -➡️ git 
+  -➡️ html5 
+  -➡️ java 
+  -➡️ linux 
+  -➡️ mariadb 
+  -➡️ mysql 
+  -➡️ php 
+  -➡️ postgresql 
+  -➡️ python 
 
