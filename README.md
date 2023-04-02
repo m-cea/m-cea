@@ -22,7 +22,7 @@ Mientras encuentro mi lugar en el mundo del desarrollo me encuentro realizando p
 
 Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendiendo:
 
-➡️ android 
+➡️ android \n
 ➡️ bash 
 ➡️ bootstrap 
 ➡️ css3
