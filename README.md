@@ -38,8 +38,8 @@ Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendie
 <li>➡️ python </li><br />
 </ul>
   
-Mis colaboraciones:
-https://github.com/mnb06/ihc
+Mis colaboraciones: <br />
+https://github.com/mnb06/ihc< br />
 https://github.com/mnb06/pedidosApp
 
   
