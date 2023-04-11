@@ -21,7 +21,7 @@ Soy Matias, Psicólogo 💬 y Analista en Informática 💻 .
 Mientras encuentro mi lugar en el mundo del desarrollo me encuentro realizando proyectos individuales para llevar mis trabajos actuales a la digitalización. Sé que pintando mi aldea pintaré el mundo y que prontamente participaré en proyectos en equipo para clientes o empresas que necesiten de mis servicios. ✅ 
 
 Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendiendo:
-<ul type="none">
+<ul style="list-style-type:none;">
 <li>➡️ android </li><br />
 <li>➡️ bash </li><br />
 <li>➡️ bootstrap </li><br />
