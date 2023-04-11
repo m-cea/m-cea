@@ -22,20 +22,20 @@ Mientras encuentro mi lugar en el mundo del desarrollo me encuentro realizando p
 
 Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendiendo:
 <ul style="list-style-type:none;">
-<li> android </li><br />
-<li> bash </li><br />
-<li> bootstrap </li><br />
-<li> css3 </li><br />
-<li> javascript </li><br />
-<li> git </li><br />
-<li> html5 </li><br />
-<li> java </li><br />
-<li> linux </li><br />
-<li> mariadb </li><br />
-<li> mysql </li><br />
-<li> php </li><br />
-<li> postgresql </li><br />
-<li> python </li><br />
+<li> android </li>
+<li> bash </li>
+<li> bootstrap </li>
+<li> css3 </li>
+<li> javascript </li>
+<li> git </li>
+<li> html5 </li>
+<li> java </li>
+<li> linux </li>
+<li> mariadb </li>
+<li> mysql </li>
+<li> php </li>
+<li> postgresql </li>
+<li> python </li>
 </ul>
   
 Mis colaboraciones: <br />
