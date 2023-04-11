@@ -21,22 +21,26 @@ Soy Matias, Psicólogo 💬 y Analista en Informática 💻 .
 Mientras encuentro mi lugar en el mundo del desarrollo me encuentro realizando proyectos individuales para llevar mis trabajos actuales a la digitalización. Sé que pintando mi aldea pintaré el mundo y que prontamente participaré en proyectos en equipo para clientes o empresas que necesiten de mis servicios. ✅ 
 
 Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendiendo:
-
-➡️ android <br />
-➡️ bash <br />
-➡️ bootstrap <br />
-➡️ css3 <br />
-➡️ javascript <br />
-➡️ git <br />
-➡️ html5 <br />
-➡️ java <br />
-➡️ linux <br />
-➡️ mariadb <br />
-➡️ mysql <br />
-➡️ php <br />
-➡️ postgresql <br />
-➡️ python <br />
+<ul>
+<li>➡️ android </li><br />
+<li>➡️ bash </li><br />
+<li>➡️ bootstrap </li><br />
+<li>➡️ css3 </li><br />
+<li>➡️ javascript </li><br />
+<li>➡️ git </li><br />
+<li>➡️ html5 </li><br />
+<li>➡️ java </li><br />
+<li>➡️ linux </li><br />
+<li>➡️ mariadb </li><br />
+<li>➡️ mysql </li><br />
+<li>➡️ php </li><br />
+<li>➡️ postgresql </li><br />
+<li>➡️ python </li><br />
+</ul>
   
+Mis colaboraciones:
+https://github.com/mnb06/ihc
+https://github.com/mnb06/pedidosApp
 
   
 
