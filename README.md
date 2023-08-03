@@ -32,7 +32,9 @@ Manejo las siguientes tecnologías y me encuentro dispuesto a seguirlas aprendie
 <li> java </li>
 <li> linux </li>
 <li> mariadb </li>
+<li> mongodb </li>
 <li> mysql </li>
+<li> nodejs </li>
 <li> php </li>
 <li> postgresql </li>
 <li> python </li>
